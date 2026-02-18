@@ -2,8 +2,8 @@
 # Configuración en MacOS y Linux
 
 Ejecute los siguientes comandos en el terminal:
-YYYY
-xxxxx
+
+
 
 
 ```bash
