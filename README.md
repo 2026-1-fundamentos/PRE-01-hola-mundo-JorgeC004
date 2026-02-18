@@ -3,6 +3,9 @@
 
 Ejecute los siguientes comandos en el terminal:
 
+xxxxx
+
+
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
